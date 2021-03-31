@@ -1,0 +1,4 @@
+sample	run	fastq
+sampleA	1	sampleA_run1_*.fastq.gz
+sampleA	2	sampleA_run2_*.fastq.gz
+sampleB	1	sampleB_run1_*.fastq.gz

@@ -1,0 +1,4 @@
+samples: "samples.tsv"
+ref_genome: "path/to/indexed/genome/fasta"
+adapters: "path/to/adapters/fasta"
+fastq_dir: "optional/common/path/fastqs"
